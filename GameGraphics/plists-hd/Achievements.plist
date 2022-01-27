@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>ach_firstpp_HD</string>
+		<key>Title</key>
+		<string>This is Getting Serious</string>
+		<key>Desc</key>
+		<string>Get your first Pet Point!</string>
+		<key>Pic</key>
+		<string>A_FirstPP.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_50days_HD</string>
+		<key>Title</key>
+		<string>Amateur Shopkeeper</string>
+		<key>Desc</key>
+		<string>Played for 50 days!</string>
+		<key>Pic</key>
+		<string>A_Brown.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_100days_HD</string>
+		<key>Title</key>
+		<string>Pro Shopkeeper</string>
+		<key>Desc</key>
+		<string>Played for 100 days!</string>
+		<key>Pic</key>
+		<string>A_Silver.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_200days_HD</string>
+		<key>Title</key>
+		<string>Master Shopkeeper</string>
+		<key>Desc</key>
+		<string>Played for 200 days!</string>
+		<key>Pic</key>
+		<string>A_Golden.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_happiness100_HD</string>
+		<key>Title</key>
+		<string>Joy to the Max</string>
+		<key>Desc</key>
+		<string>Reach 100% Happiness!</string>
+		<key>Pic</key>
+		<string>A_Happy1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_happiness500_HD</string>
+		<key>Title</key>
+		<string>Overflowing Happiness</string>
+		<key>Desc</key>
+		<string>Reach 500% Happiness!</string>
+		<key>Pic</key>
+		<string>A_Happy2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_happiness999_HD</string>
+		<key>Title</key>
+		<string>I&apos;m Speechless... I Have No Speech.</string>
+		<key>Desc</key>
+		<string>Reach 999% Happiness!</string>
+		<key>Pic</key>
+		<string>A_Happy3.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_customers2500_HD</string>
+		<key>Title</key>
+		<string>Part of the Job</string>
+		<key>Desc</key>
+		<string>Served over 2500 customers!</string>
+		<key>Pic</key>
+		<string>A_ServedOver1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_customers5000_HD</string>
+		<key>Title</key>
+		<string>Putting in Overtime</string>
+		<key>Desc</key>
+		<string>Served over 5000 customers!</string>
+		<key>Pic</key>
+		<string>A_ServedOver2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_customers10000_HD</string>
+		<key>Title</key>
+		<string>Sleeping in the Shop Tonight!</string>
+		<key>Desc</key>
+		<string>Served over 10000 customers!</string>
+		<key>Pic</key>
+		<string>A_ServedOver3.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_shoplv5_HD</string>
+		<key>Title</key>
+		<string>Things Are Looking Up</string>
+		<key>Desc</key>
+		<string>Upgrade your shop to level 5!</string>
+		<key>Pic</key>
+		<string>A_Upgrade1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_shopmaxlv_HD</string>
+		<key>Title</key>
+		<string>Don&apos;t Look Down</string>
+		<key>Desc</key>
+		<string>Upgrade your shop to max. level!</string>
+		<key>Pic</key>
+		<string>A_Upgrade2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_allequipment_HD</string>
+		<key>Title</key>
+		<string>You Get What You Pay For</string>
+		<key>Desc</key>
+		<string>Purchase all equipment!</string>
+		<key>Pic</key>
+		<string>A_Equ.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_maxupgrade_HD</string>
+		<key>Title</key>
+		<string>Top of the Line Facilities</string>
+		<key>Desc</key>
+		<string>Upgrade all equipment to max. level!</string>
+		<key>Pic</key>
+		<string>A_EquUpgrade.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_allstaff_HD</string>
+		<key>Title</key>
+		<string>Equal Opportunity</string>
+		<key>Desc</key>
+		<string>Hire all staff!</string>
+		<key>Pic</key>
+		<string>A_Hire.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_spvisit_HD</string>
+		<key>Title</key>
+		<string>Today&apos;s Gonna Be a Good Day</string>
+		<key>Desc</key>
+		<string>Have a special guest visit your shop!</string>
+		<key>Pic</key>
+		<string>A_SpecialGuest.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayearn5000_HD</string>
+		<key>Title</key>
+		<string>Cha-Ching!</string>
+		<key>Desc</key>
+		<string>Earn $5,000 in one day!</string>
+		<key>Pic</key>
+		<string>A_Earn1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayearn10000_HD</string>
+		<key>Title</key>
+		<string>Cha-Ching-Ching!</string>
+		<key>Desc</key>
+		<string>Earn $10,000 in one day!</string>
+		<key>Pic</key>
+		<string>A_Earn2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayearn15000_HD</string>
+		<key>Title</key>
+		<string>Cha-Ching! Cha-Ching!</string>
+		<key>Desc</key>
+		<string>Earn $15,000 in one day!</string>
+		<key>Pic</key>
+		<string>A_Earn3.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayearn0_HD</string>
+		<key>Title</key>
+		<string>You&apos;re Doing it Wrong!</string>
+		<key>Desc</key>
+		<string>Earn $0 in one day!</string>
+		<key>Pic</key>
+		<string>A_Earn0</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayhappiness10_HD</string>
+		<key>Title</key>
+		<string>Turn That Frown Upside Down</string>
+		<key>Desc</key>
+		<string>Raise 10% happiness in one day!</string>
+		<key>Pic</key>
+		<string>A_HappyRaise1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_dayhappiness15_HD</string>
+		<key>Title</key>
+		<string>It&apos;s Like a Truck Full of Clowns</string>
+		<key>Desc</key>
+		<string>Raise 15% happiness in one day!</string>
+		<key>Pic</key>
+		<string>A_HappyRaise2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_daysad10_HD</string>
+		<key>Title</key>
+		<string>So Sad...</string>
+		<key>Desc</key>
+		<string>Lose 10% happiness in one day!</string>
+		<key>Pic</key>
+		<string>A_HappyLose1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_daysad15_HD</string>
+		<key>Title</key>
+		<string>Oh No They Didn&apos;t!</string>
+		<key>Desc</key>
+		<string>Lose 15% happiness in one day!</string>
+		<key>Pic</key>
+		<string>A_HappyLose2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_daycustomers40_HD</string>
+		<key>Title</key>
+		<string>Somewhere in the Forties</string>
+		<key>Desc</key>
+		<string>Served 40 customers in one day!</string>
+		<key>Pic</key>
+		<string>A_Served1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_daycustomers60_HD</string>
+		<key>Title</key>
+		<string>Pushing Towards the Sixties</string>
+		<key>Desc</key>
+		<string>Served 60 customers in one day!</string>
+		<key>Pic</key>
+		<string>A_Served2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_daycustomers80_HD</string>
+		<key>Title</key>
+		<string>Fabulous in the Eighties</string>
+		<key>Desc</key>
+		<string>Served 80 customers in one day!</string>
+		<key>Pic</key>
+		<string>A_Served3.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_perfectday_HD</string>
+		<key>Title</key>
+		<string>It&apos;s All Cool, Breeze.</string>
+		<key>Desc</key>
+		<string>Finish the day without any of your customers becoming angry!</string>
+		<key>Pic</key>
+		<string>A_Perfect.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_silence_HD</string>
+		<key>Title</key>
+		<string>Silence is Golden</string>
+		<key>Desc</key>
+		<string>Don&apos;t use the music player for a day (only levels 7 to 8)</string>
+		<key>Pic</key>
+		<string>A_Golden.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_prez_HD</string>
+		<key>Title</key>
+		<string>Thank You, Mr. Prez</string>
+		<key>Desc</key>
+		<string>Successfully serve the Prez!</string>
+		<key>Pic</key>
+		<string>A_SpecialGuest.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_perfectday6_HD</string>
+		<key>Title</key>
+		<string>This is How We Do It</string>
+		<key>Desc</key>
+		<string>Finish the day without any of your customers becoming angry! (level 6)</string>
+		<key>Pic</key>
+		<string>A_Perfect.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_angrylady_HD</string>
+		<key>Title</key>
+		<string>Talk To The Hand</string>
+		<key>Desc</key>
+		<string>Make the Rich Lady angry!</string>
+		<key>Pic</key>
+		<string>A_HappyLose2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_10angry_HD</string>
+		<key>Title</key>
+		<string>No Service For You!</string>
+		<key>Desc</key>
+		<string>Make 10 customers angry in one day!</string>
+		<key>Pic</key>
+		<string>A_HappyLose1.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_perfectday7_HD</string>
+		<key>Title</key>
+		<string>Getting it Done</string>
+		<key>Desc</key>
+		<string>Finish the day without any of your customers becoming angry! (level 7)</string>
+		<key>Pic</key>
+		<string>A_Perfect.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_perfectday8_HD</string>
+		<key>Title</key>
+		<string>It Was A Team Effort</string>
+		<key>Desc</key>
+		<string>Finish the day without any of your customers becoming angry! (level 8)</string>
+		<key>Pic</key>
+		<string>A_Perfect</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_angryprez_HD</string>
+		<key>Title</key>
+		<string>Enemy of the State</string>
+		<key>Desc</key>
+		<string>Make the Prez angry!</string>
+		<key>Pic</key>
+		<string>A_HappyLose2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_mvp_HD</string>
+		<key>Title</key>
+		<string>The MVP</string>
+		<key>Desc</key>
+		<string>Hire Cuby!</string>
+		<key>Pic</key>
+		<string>A_Upgrade2.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ach_theme_HD</string>
+		<key>Title</key>
+		<string>A Change of Scenery</string>
+		<key>Desc</key>
+		<string>Purchase a theme for your salon</string>
+		<key>Pic</key>
+		<string>A_ServedOver2.png</string>
+	</dict>
+</array>
+</plist>
