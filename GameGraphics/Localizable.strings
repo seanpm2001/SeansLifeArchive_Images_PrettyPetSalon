@@ -1,0 +1,233 @@
+/* 
+   Localizable.strings
+   PetSalon
+
+   Created by Jonathan Fung on 21/02/2011.
+   Copyright 2011 Outblaze Ventures. All rights reserved.
+   
+   String Localization File
+   Please use this template and translate strings on the right side for each language we support.
+   Use UTF-8 encoding.
+ */
+ 
+//WARNING: DO NOT REMOVE existing tokens "%d" and "%@" (will break game)!!! 
+//"%d" is an integer quantity set at runtime. "%@" is a string value set at runtime, usually a name. 
+//Use "\n" to mark new lines.
+
+
+
+
+"NEW GAME"			=	"New Game";
+"RESUME"			=	"Resume";
+"OPTIONS"			=	"Options";
+"HELP"				=	"Help";
+"ACHIEVEMENTS"		=	"Achievements";
+"MOREAPPS"			=	"More Apps";
+"BUYPP"				=	"Buy Pet Points";
+"EARNPP"			=	"Earn Free Pet Points";
+"XFRPP"				=	"Transfer Pet Points to Money";
+"GETMONEY"			=	"Get More Money";
+"PAUSE"				=	"Pause";
+"MUSIC"				=	"Music";
+"SOUNDS"			=	"Sounds";
+"LOADING"			=	"Loading";
+
+
+
+"NAME_FMT"			=	"%@ Lv%d";
+"NAME_SOFA"			=	"Sofa";
+"NAME_BATHTUB"		=	"Bathtub";
+"NAME_DRYING"		=	"Drying Machine";
+"NAME_HAIRCUT"		=	"Haircut Table";
+"NAME_FACIAL"		=	"Facial Table";
+"NAME_MASSAGE"		=	"Massage Seat";
+"NAME_MUSIC"		=	"Music Player";
+"NAME_FLEA"			=	"Flea/Tick Treatment";
+"NAME_COUNTER"		=	"Cashier";
+
+
+"SERVICE_CHARGE1"	=	"Service Charge $%d";
+"SERVICE_CHARGE2"	=	"Service Charge $%d → $%d\nShorter serving time";
+"SOFA_DESC"			=	"Your customers will take longer before becoming impatient with new, more comfortable sofas.";
+"MUSIC_DESC"		=	"Customers will not become impatient and leave while active.\nCan only be used %d %@ a day.";
+"COUNTER_DESC"		=	"Shorter serving time";
+
+
+"TIME_SINGULAR"		=	"time";
+"TIME_PLURAL"		=	"times";
+
+
+
+
+"STAFF_UPGRADE1"	=	"Faster serving speed.";
+"STAFF_UPGRADE2"	=	"Faster walking and serving speed.";
+"STAFF_UPGRADE_FMT" =	"Upgrade %@ to Lv%d\n%@";
+"STAFF_ROBOT"		=	"%@\nAutomatically collects money\nfor you!";
+"HIRE_STAFF1"		=	"Hire %@ to help you!\nVery high walking and serving speed.";
+"HIRE_STAFF2"		=	"Hire %@ to help you!";
+
+"STAFF_NAME1"		=	"Piglina";
+"STAFF_NAME2"		=	"Moolissa";
+"STAFF_NAME3"		=	"Leonidas";
+"STAFF_NAME4"		=	"Pandingo";
+"STAFF_NAME5"		=	"Fluffina";
+"STAFF_NAME6"		=	"Robo-Cashier";
+"STAFF_NAME7"		=	"Cuby";
+
+
+
+"SHOP_UPGRADE"		=	"Upgrade Equipment";
+"SHOP_LEVELUP"		=	"LEVEL UP";
+"SHOP_REPORT"		=	"Today's Report";
+"SHOP_NEXTLEVEL"	=	"Next Level";
+"SHOP_REQUIREMENTS"	=	"Requirements";
+"SHOP_CLOSED"		=	"Closed";
+"SHOP_HIRE"			=	"Hire";
+"SHOP_PURCHASE"		=	"Purchase";
+"SHOP_UPGRADE2"		=	"Upgrade";
+"SHOP_LVLREQ"		=	"Next Level Requirements";
+"SHOP_INCOME"		=	"Income";
+"SHOP_HAPPINESS"	=	"Happiness";
+"SHOP_HAPPYCOUNT"	=	"Happy Customers";
+"SHOP_ANGRYCOUNT"	=	"Angry Customers";
+"SHOP_NEWLEVEL"		=	"New Levels Coming Soon!";
+
+
+
+
+
+"TEXT_NEWGAME"		=	"Starting a new game will erase the\ncurrent game. Existing Pet Points\nwill be preserved.";
+"TEXT_NEWGAME2"		=	"\nAre you sure?";
+"TEXT_ERASE"		=	"Do you want to erase the current game?\nExisting Pet Points will be preserved.";
+"TEXT_CONFIRMERASE"	=	"Are you sure?";
+"TEXT_FINISHERASE"	=	"All data has been erased!";
+
+
+
+
+"BUTTON_OK"			=	"Ok";
+"BUTTON_CANCEL"		=	"Cancel";
+"BUTTON_RESUME"		=	"Resume";
+"BUTTON_SAVEQUIT"	=	"Save & Quit";
+"BUTTON_CONFIRM"	=	"Confirm";
+"BUTTON_LATER"		=	"Later";
+"BUTTON_BACK"		=	"Back";
+"BUTTON_ERASE"		=	"Erase";
+"BUTTON_YES"		=	"Yes";
+"BUTTON_NO"			=	"No";
+"BUTTON_DOWNLOAD"	=	"Download";
+"BUTTON_NEXTDAY"	=	"Next Day";
+
+
+
+
+"VIP_DAY_NAME"		=	"VIP Day!";
+"VIP_DAY_DESC"		=	"Every %d days, you can choose to only cater to VIPs for the day!\nDepending on your performance, you may make a lot of money, or lose a lot of happiness rating.\nAre you up to the challenge?";
+
+
+
+"HELP_DRAG"			=	"Drag";
+"HELP_CLICK"		=	"Click";
+"HELP_PG1"			=	"Taking care of your customers' pets is easy:\nAll you have to do is drag them to the appropriate\nstation (Washing, Cutting, or Drying).";
+"HELP_PG2"			=	"Once placed in one of the stations,\ntap the pet to start working on them.";
+"HELP_PG3"			=	"Don't let them stay unattended for too long because the\nowner will get angry and leave your salon.";
+"HELP_PG4"			=	"Be quick on your feet, some pets require more than just a\nwash so they may need to be moved to another station.";
+"HELP_PG5"			=	"When you're done with a pet, the customer will go to\nthe cashier and will pay you for the hard work\nyou've done. Tap on the customer to get your money.";
+"HELP_PG6_1"		=	"This is where your money and customer happiness is\ndisplayed. When a customer leaves because you\ntook too long before attending to a pet, your happiness\nlevel will drop and you won't get paid.";
+"HELP_PG6_2"		=	"Money is very important to keep your salon running.\nYou can use this to hire more staff members, buy new\nequipment or upgrade your current ones.";
+"HELP_PG7_1"		=	"This is where you can see how many days your store\nhas been open. Each day lasts about 2.5 minutes.";
+"HELP_PG7_2"		=	"When the shop is closed at the end of the\nday, you can start doing your upgrades and hiring\nto prepare yourself for the next day.";
+"HELP_PG8"			=	"This is your Salon Level. Tapping this will display the day's\nearnings and happiness change. It will also show what you\nneed to reach to level up.";
+"HELP_PG9"			=	"If you play long enough and do a good job of making\nyour customers happy, a special guest might visit\nyour store to get their pets a royal treatment. Good luck!";
+
+
+
+
+"ACH_UNLOCKED"		=	"Achievement Unlocked: %@";
+
+"This is Getting Serious"					=	"This is Getting Serious";
+"Get your first Pet Point"					=	"Get your first Pet Point";
+
+"Amateur Shopkeeper"						=	"Amateur Shopkeeper";
+"Played for 50 days"						=	"Played for 50 days";
+
+"Pro Shopkeeper"							=	"Pro Shopkeeper";
+"Played for 100 days"						=	"Played for 100 days";
+
+"Master Shopkeeper"							=	"Master Shopkeeper";
+"Played for 200 days"						=	"Played for 200 days";
+
+"Joy to the Max"							=	"Joy to the Max";
+"Reach 100% Happiness"						=	"Reach 100% Happiness";
+
+"Overflowing Happiness"						=	"Overflowing Happiness";
+"Reach 500% Happiness"						=	"Reach 500% Happiness";
+
+"I'm Speechless... I Have No Speech."		=	"I'm Speechless... I Have No Speech.";
+"Reach 999% Happiness"						=	"Reach 999% Happiness";
+
+"Part of the Job"							=	"Part of the Job";
+"Served over 2500 customers"				=	"Served over 2500 customers";
+
+"Putting in Overtime"						=	"Putting in Overtime";
+"Served over 5000 customers"				=	"Served over 5000 customers";
+
+"Sleeping in the Shop Tonight!"				=	"Sleeping in the Shop Tonight!";
+"Served over 10000 customers"				=	"Served over 10000 customers";
+
+"Things Are Looking Up"						=	"Things Are Looking Up";
+"Upgrade your shop to level 5"				=	"Upgrade your shop to level 5";
+
+"Don't Look Down"							=	"Don't Look Down";
+"Upgrade your shop to max. level"			=	"Upgrade your shop to max. level";
+
+"You Get What You Pay For"					=	"You Get What You Pay For";
+"Purchase all equipment"					=	"Purchase all equipment";
+
+"Top of the Line Facilities"				=	"Top of the Line Facilities";
+"Upgrade all equipment to max. level"		=	"Upgrade all equipment to max. level";
+
+"Equal Opportunity"							=	"Equal Opportunity";
+"Hire all staff"							=	"Hire all staff";
+
+"Today's Gonna Be a Good Day"				=	"Today's Gonna Be a Good Day";
+"Have a special guest visit your shop"		=	"Have a special guest visit your shop";
+
+"Cha-Ching!"								=	"Cha-Ching!";
+"Earn $5,000 in one day"					=	"Earn $5,000 in one day";
+
+"Cha-Ching-Ching!"							=	"Cha-Ching-Ching!";
+"Earn $10,000 in one day"					=	"Earn $10,000 in one day";
+
+"Cha-Ching! Cha-Ching!"						=	"Cha-Ching! Cha-Ching!";
+"Earn $15,000 in one day"					=	"Earn $15,000 in one day";
+
+"You're Doing it Wrong!"					=	"You're Doing it Wrong!";
+"Earn $0 in one day"						=	"Earn $0 in one day";
+	
+"Turn That Frown Upside Down"				=	"Turn That Frown Upside Down";
+"Raise 10% happiness in one day"			=	"Raise 10% happiness in one day";
+
+"It's Like a Truck Full of Clowns"			=	"It's Like a Truck Full of Clowns";
+"Raise 15% happiness in one day"			=	"Raise 15% happiness in one day";
+
+"So Sad..."									=	"So Sad...";
+"Lose 10% happiness in one day"				=	"Lose 10% happiness in one day";
+
+"Oh No They Didn't!"						=	"Oh No They Didn't!";
+"Lose 15% happiness in one day"				=	"Lose 15% happiness in one day";
+
+"Somewhere in the Thirties"					=	"Somewhere in the Thirties";
+"Served 40 customers in one day"			=	"Served 40 customers in one day";
+
+"Pushing Towards the Forties"				=	"Pushing Towards the Forties";
+"Served 60 customers in one day"			=	"Served 60 customers in one day";
+
+"Fabulous in the Fifties"					=	"Fabulous in the Fifties";
+"Served 80 customers in one day"			=	"Served 80 customers in one day";
+
+"It's All Cool, Breeze."					=	"It's All Cool, Breeze.";
+"Finish the day without any of your customers becoming angry."	=	"Finish the day without any of your customers becoming angry.";
+
+"A Change of Scenery"						=	"A Change of Scenery";
+"Purchase a theme for your salon"			=	"Purchase a theme for your salon";

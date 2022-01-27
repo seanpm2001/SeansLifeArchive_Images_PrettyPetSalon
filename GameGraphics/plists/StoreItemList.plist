@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cost</key>
+		<integer>0</integer>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string></string>
+			<key>thumb</key>
+			<string>default_thumb.jpg</string>
+			<key>wall</key>
+			<string></string>
+		</dict>
+		<key>name</key>
+		<string>Default Theme</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_000</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>50000</integer>
+		<key>cost_type</key>
+		<string>gc</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_ca_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_ca_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_ca_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>Turn your salon into a sweet and\nyummy treat. Witches not\nincluded.</string>
+		<key>name</key>
+		<string>Gingerbread House</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_001</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>100</integer>
+		<key>cost_type</key>
+		<string>pp</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_ch_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_ch_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_ch_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>A salon fit for a king or queen.\nThe Prez will love it,\nthat's for sure.</string>
+		<key>name</key>
+		<string>Oriental Palace</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_002</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>120</integer>
+		<key>cost_type</key>
+		<string>pp</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_gd_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_gd_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_gd_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>Trim fur AND grass at the\nsame time!</string>
+		<key>name</key>
+		<string>Magic Forest</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_003</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>140</integer>
+		<key>cost_type</key>
+		<string>pp</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_hn_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_hn_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_hn_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>Drench your salon in sweet,\nsweet honey to generate a buzz\namong your patrons.</string>
+		<key>name</key>
+		<string>The Honeycomb</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_004</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>160</integer>
+		<key>cost_type</key>
+		<string>pp</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_ic_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_ic_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_ic_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>Turn the temperature way down\nand transform your salon into a\nwinter wonderland.</string>
+		<key>name</key>
+		<string>Snow Fort</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_005</string>
+	</dict>
+	<dict>
+		<key>cost</key>
+		<integer>180</integer>
+		<key>cost_type</key>
+		<string>pp</string>
+		<key>data</key>
+		<dict>
+			<key>bg</key>
+			<string>hko_cu_bg.jpg</string>
+			<key>thumb</key>
+			<string>hko_cu_thumb.jpg</string>
+			<key>wall</key>
+			<string>hko_cu_wall.png</string>
+		</dict>
+		<key>desc</key>
+		<string>Go all out with a shrine dedicated\nto serving pets.</string>
+		<key>name</key>
+		<string>Pet Shrine</string>
+		<key>type</key>
+		<string>theme</string>
+		<key>uid</key>
+		<string>thm_006</string>
+	</dict>
+</array>
+</plist>

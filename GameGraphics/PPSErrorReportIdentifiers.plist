@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifyingString</key>
+		<string>OutOfMemory</string>
+		<key>formKey</key>
+		<string>dDZ1VmUxLXRYMXNrRlItS2VvMVZla1E6MQ</string>
+		<key>message</key>
+		<string>Your device is out of memory or error occurs during memory access. Please try to kill some apps or restart your phone.</string>
+	</dict>
+	<dict>
+		<key>identifyingString</key>
+		<string>Unable to add window</string>
+		<key>formKey</key>
+		<string>dGc3REFITWU3dDZDbkxoMHA4bHpfS0E6MA</string>
+		<key>message</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>identifyingString</key>
+		<string>paypal</string>
+		<key>formKey</key>
+		<string>dFR1bnJHNmlZUjNrT0x4c2xCRW5qbnc6MA</string>
+		<key>message</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>identifyingString</key>
+		<string>IndexOutOfBoundsException</string>
+		<key>formKey</key>
+		<string>dE9OYnVrNVFPWVRiQjFfbmxOSzNVLWc6MA</string>
+		<key>message</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>identifyingString</key>
+		<string>egl</string>
+		<key>formKey</key>
+		<string>dGJOb1lRTklVemhJVmNhWTFhY2kzQmc6MQ</string>
+		<key>message</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
